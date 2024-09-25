@@ -25,7 +25,7 @@ def extract_jobs(self, cleaned_text):
     chain_extract = prompt_extract | self.llm
     res = chain_extract.invoke(input={"page_data": cleaned_text})
     
-    # Check the raw response
+    #Check the raw response
     print("Raw response:", res.content)
     
     try:

@@ -2,6 +2,7 @@ import pandas as pd
 import chromadb
 import uuid
 import os
+import os 
 
 
 class Portfolio:

@@ -48,4 +48,5 @@ streamlit run main.py
 ### Prerequisites
 - Get an API key from [Groq API](https://console.groq.com/keys)
 - Set up a `.env` file in the `app/` directory with your Groq API key:
-  
+### License
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.

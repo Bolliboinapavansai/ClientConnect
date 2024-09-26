@@ -27,6 +27,22 @@
 
 To get started with **CareerMatchMailer**, follow these steps:
 
+**Clone the Repository**:
+   Open your terminal and run:
+   ```bash
+   git clone https://github.com/Bolliboinapavansai/CareerMatchMailer.git
+```
+
+Install dependencies :
+
+```bash
+pip install -r requirements.txt
+
+```
+Run the Application: After installing the dependencies, you can run the application using Streamlit
+```bash
+streamlit run main.py
+```
 
 
 ### Prerequisites

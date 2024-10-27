@@ -30,7 +30,7 @@ To get started with **ClientConnectr**, follow these steps:
 **Clone the Repository**:
    Open your terminal and run:
    ```bash
-   git clone https://github.com/Bolliboinapavansai/CareerMatchMailer.git
+   git clone https://github.com/Bolliboinapavansai/ClientConnect.git
 ```
 
 Install dependencies :

@@ -1,6 +1,6 @@
-# CareerMatchMailer
+# ClientConnect
 
-**CareerMatchMailer** is an AI-powered tool that extracts job listings from company careers pages and generates personalized cold emails. The tool uses Groq, Langchain, and Streamlit to generate cold emails, including relevant candidate portfolio links sourced from a vector database, based on specific job descriptions. This solution streamlines the outreach process for recruitment and business development, making it easier for companies to target potential clients or partners.
+**ClientConnect** is an AI-powered tool that extracts job listings from company careers pages and generates personalized cold emails. The tool uses Groq, Langchain, and Streamlit to generate cold emails, including relevant candidate portfolio links sourced from a vector database, based on specific job descriptions. This solution streamlines the outreach process for recruitment and business development, making it easier for companies to target potential clients or partners.
 
 ## Features
 
@@ -25,7 +25,7 @@
 
 ## Setup Instructions
 
-To get started with **CareerMatchMailer**, follow these steps:
+To get started with **ClientConnectr**, follow these steps:
 
 **Clone the Repository**:
    Open your terminal and run:
